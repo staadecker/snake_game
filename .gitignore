@@ -340,4 +340,4 @@ ASALocalRun/
 healthchecksdb
 
 # My Modifications
-*/out
+**/out/

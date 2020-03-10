@@ -1,4 +1,0 @@
-C:/Users/machs/Projects/snake_game/src/out/build/x64-Debug/CMakeFiles/snake_game.dir
-C:/Users/machs/Projects/snake_game/src/out/build/x64-Debug/CMakeFiles/test_game.dir
-C:/Users/machs/Projects/snake_game/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/machs/Projects/snake_game/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
